@@ -1,7 +1,7 @@
-##About this Project
+# About this Project
 This is a simple laravel web app that use AJAX form validation, block UI concept.
 
-##How to Run this project
+# How to Run this project
 - run 'composer update'
 - Change .env_example to .env
 - Create Database
